@@ -20,4 +20,4 @@ For instance, if you input:
 - `r`: 5%
 
 The calculated simple interest would be:  
-simple interest = 1000 * 3 * 0.05 = $150
+calculated simple interest = 1000 * 3 * 0.05 = $150
